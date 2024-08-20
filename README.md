@@ -1,4 +1,4 @@
-### Aula de Git & Github
+### GIT & GITHUB COURSE
 
 This stage I learned:
 
